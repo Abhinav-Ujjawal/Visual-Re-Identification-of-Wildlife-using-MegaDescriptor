@@ -1,0 +1,14 @@
+cow
+tiger
+chimpanzee
+GiraffeZebra
+zebra - will have to omit some photos
+whale - HappyWhale, HumpbackWhaleID, 
+hyena
+leopard
+lion
+dog
+dolphin
+seal
+starfish
+turtle - sea turtleID

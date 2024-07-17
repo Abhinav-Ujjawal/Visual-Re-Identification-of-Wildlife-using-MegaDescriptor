@@ -1,0 +1,171 @@
+<rdf:RDF
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:opmv="http://purl.org/net/opmv/ns#"
+    xmlns:dctypes="http://purl.org/dc/dcmitype/"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:repo="http://vocab.bris.ac.uk/data/repository#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="repo:wurzq71kfm561ljahbwjhx9n3">
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:29.729Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:29.733Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:issued>2016</dc:issued>
+    <repo:project>Animal_Biometrics</repo:project>
+    <dc:contributor rdf:parseType="Resource">
+      <rdfs:label>Sion Hannuna</rdfs:label>
+    </dc:contributor>
+    <dc:available>2016-09-21</dc:available>
+    <dc:subject>identification</dc:subject>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:57.487Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:26:19.293Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dc:dateSubmitted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2016-09-21T13:00:15.566Z</dc:dateSubmitted>
+    <dc:title>FriesianCattle2015</dc:title>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:33.174Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:29.721Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:state rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Depositing</repo:state>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:26:33.366Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:27:17.394Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:data-steward>
+      <rdf:Description rdf:about="http://data.bris.ac.uk/people/73870">
+        <rdfs:label>Tilo Burghardt</rdfs:label>
+      </rdf:Description>
+    </repo:data-steward>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:51.89Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:51.901Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:26:19.301Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:26:19.309Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:26.384Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:26.395Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:isReferencedBy rdf:parseType="Resource">
+      <rdfs:label>W Andrew, T Burghardt, S Hannuna, N Campbell. Automatic Individual Holstein Friesian Cattle Identification via Selective Local Coat Pattern Matching in RGB-D Imagery. IEEE International Conference on Image Processing (ICIP). September 2016. DOI: 10.1109/ICIP.2016.7532404</rdfs:label>
+    </dc:isReferencedBy>
+    <dc:creator rdf:resource="http://data.bris.ac.uk/people/73870"/>
+    <repo:organisation rdf:resource="http://data.bris.ac.uk/orgs/FENG"/>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:23:52.068Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:24.875Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:17.548Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:49.505Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:depositor>tb2935</repo:depositor>
+    <dc:source>RDSF_MV/nfs3-exports/tb2935-burghardt-2013/Animal_Biometrics/export/Data-Bris/FriesianCattle2015</dc:source>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:24.888Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:24:26.371Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:language>eng</dc:language>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:23:52.052Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:23:52.057Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:funder rdf:parseType="Resource">
+      <rdfs:label>FARSCOPE: EPSRC Centre for Doctoral Training in Future Autonomous and Robotic Systems</rdfs:label>
+    </repo:funder>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:17.013Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:17.523Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:contributor rdf:parseType="Resource">
+      <rdfs:label>Neill Campbell</rdfs:label>
+    </dc:contributor>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:49.554Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:51.847Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:subject> animal biometrics </dc:subject>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:27:17.404Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:27:17.409Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:description>Depth-segmented RGB images of Friesian Cattle.</dc:description>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:23:33.024Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:23:52.041Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:creator rdf:parseType="Resource">
+      <rdfs:label>Will Andrew</rdfs:label>
+    </dc:creator>
+    <dc:subject>computer vision</dc:subject>
+    <dc:publisher>University of Bristol</dc:publisher>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:29.742Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T15:25:57.479Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:base-directory>/RDSF_MV/nfs3-exports/tb2935-burghardt-2013/Animal_Biometrics</repo:base-directory>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:00:38.395Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2016-09-21T13:01:16.922Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+  </rdf:Description>
+</rdf:RDF>
